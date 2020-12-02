@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "Welcome to our second slide!"
+go to your room: "Welcome to our second slide!"
 ---
-Your text
+drink soda, add file, pee bed
 Use the left arrow to go back!
